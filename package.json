@@ -1,5 +1,5 @@
 {
-  "name": "simple-des",
+  "name": "simple-des-crypto",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -18,6 +18,11 @@
     "url": "https://github.com/rearn/simple-des/issues"
   },
   "homepage": "https://github.com/rearn/simple-des#readme",
+  "keywords": [
+    "DES",
+    "crypt",
+    "typescript"
+  ],
   "engines": {
     "node": ">=6"
   },

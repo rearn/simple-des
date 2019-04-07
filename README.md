@@ -1,12 +1,12 @@
-# simple-des
+# simple-des-crypto
 [![Build Status](https://travis-ci.com/rearn/simple-des.svg?branch=master)](https://travis-ci.com/rearn/simple-des)
 
-`simple-des` is Simple DES encrypt library.
+`simple-des-crypto` is Simple DES encrypt library.
 
 ## Installation
 
 ``` sh
-npm install --save simple-des
+npm install --save simple-des-crypto
 ```
 
 ## Usage
